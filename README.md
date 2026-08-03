@@ -215,7 +215,7 @@ Based on the analysis:
 > *(Add your Power BI dashboard screenshot here)*
 
 ```
-images/dashboard.png
+images/Customer Shopping Behavior Analysis Dashboard.png
 ```
 
 ---
