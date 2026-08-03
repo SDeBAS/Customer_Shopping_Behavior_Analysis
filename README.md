@@ -212,8 +212,8 @@ Based on the analysis:
 
 # 📷 Dashboard Preview
 
-```
-![Dashboard](images/Customer%20Shopping%20Behavior%20Analysis%20Dashboard.png)```
+---
+![Dashboard](images/Customer%20Shopping%20Behavior%20Analysis%20Dashboard.png)
 
 ---
 
