@@ -233,13 +233,3 @@ images/dashboard.png
 
 ---
 
-# 📬 Contact
-
-**Debanjan Basu**
-
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub URL)*
-
----
-
-## ⭐ If you found this project useful, consider giving the repository a star!
