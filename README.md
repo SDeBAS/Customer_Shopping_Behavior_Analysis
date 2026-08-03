@@ -212,8 +212,6 @@ Based on the analysis:
 
 # 📷 Dashboard Preview
 
-> *(Add your Power BI dashboard screenshot here)*
-
 ```
 images/Customer Shopping Behavior Analysis Dashboard.png
 ```
