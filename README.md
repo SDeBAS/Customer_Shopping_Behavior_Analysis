@@ -42,15 +42,15 @@ The project combines:
 
 # 🛠 Tech Stack
 
-| Technology | Purpose |
-|------------|---------|
-| Python | Data Cleaning & Feature Engineering |
-| Pandas | Data Manipulation |
-| NumPy | Numerical Operations |
-| PostgreSQL | SQL Analysis |
-| Power BI | Dashboard & Visualization |
-| SQL | Business Analytics |
-| Git & GitHub | Version Control |
+| Technology   | Purpose                             |
+| ------------ | ----------------------------------- |
+| Python       | Data Cleaning & Feature Engineering |
+| Pandas       | Data Manipulation                   |
+| NumPy        | Numerical Operations                |
+| PostgreSQL   | SQL Analysis                        |
+| Power BI     | Dashboard & Visualization           |
+| SQL          | Business Analytics                  |
+| Git & GitHub | Version Control                     |
 
 ---
 
@@ -64,13 +64,10 @@ Customer-Shopping-Behavior-Analysis/
 │   └── cleaned_dataset.csv
 │
 ├── python/
-│   ├── data_cleaning.ipynb
-│   ├── feature_engineering.ipynb
-│   └── load_to_postgresql.py
+│   ├── data_manipulation.ipynb
 │
 ├── sql/
-│   ├── business_queries.sql
-│   └── database_schema.sql
+│   ├── business_analysis.sql
 │
 ├── powerbi/
 │   └── Customer_Shopping_Dashboard.pbix
@@ -232,4 +229,3 @@ images/dashboard.png
 - Automate the ETL pipeline.
 
 ---
-
